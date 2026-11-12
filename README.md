@@ -7,4 +7,4 @@ Project Structure
 - `mycorrhizal/` PCB schematic (for use with KiCAD)
 - `proto-dehumidifier/` contains arduino firmware for the 1st dehumidifier prototype
     - `tester/tester.ino` fan firmware for dehumidifier test cycles
-- `assets (CAD)/` cotains all the CAD files used.
+- `assets (CAD)/` contains all the CAD files used.
